@@ -2,21 +2,19 @@
     "id": 64658786,
     "name": "Wasureta",
     "author": "Helpegasus",
-    "creators": [Isane LimeTime313
-XLSpiral
-Helpegasus
-Deadlox
-BelonziK
-El3ctr0
-[REDACTED]
-augi
-Splash],
+    "creators": ["Isane", "LimeTime313", "XLSpiral", "Helpegasus", "Deadlox", "BelonziK", "El3ctr0", "augi", "Splash"],
     "verifier": "VaporWubz",
-    "verification": "https://youtu.be/IN0XeMo2SmM",
-    "percentToQualify": "52",
+    "verification": "https://youtu.be/9jkCtNDbDt0",
+    "percentToQualify": "58",
     "password": "Free To Copy",
     "records": [
         {
+            "user": "CactuzGD",
+            "link": "https://www.youtube.com/watch?v=OQLYfQRKJPk",
+            "percent": 100,
+            "hz": 60
+        },
+{
             "user": "CactuzGD",
             "link": "https://www.youtube.com/watch?v=OQLYfQRKJPk",
             "percent": 100,
