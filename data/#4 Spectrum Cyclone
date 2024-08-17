@@ -1,1 +1,18 @@
-
+{
+    "id": 59209010,
+    "name": "Spectrum Cyclone",
+    "author": "Temp",
+    "creators": [],
+    "verifier": "Temp",
+    "verification": "https://youtu.be/IN0XeMo2SmM",
+    "percentToQualify": "52",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "CactuzGD",
+            "link": "https://www.youtube.com/watch?v=OQLYfQRKJPk",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
