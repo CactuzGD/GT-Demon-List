@@ -1,13 +1,23 @@
 [
     {
         "role": "owner",
+        "name": "Dagemanx",
+        "link": "https://www.youtube.com/@dagemanc"
+    },
+    {
+        "role": "owner",
         "name": "Cactuz",
         "link": "https://www.youtube.com/@CactuzGD"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Xotiic",
+        "link": "https://www.youtube.com/@Xotiicgt"
+    },
+    {
+        "role": "admin",
+        "name": "Guaiplox",
+        "link": "https://www.youtube.com/@Guaiplox"
     },
     {
         "role": "helper",
