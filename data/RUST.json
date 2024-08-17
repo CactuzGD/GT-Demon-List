@@ -3,16 +3,10 @@
     "name": "RUST",
     "author": "Neigefeu",
     "creators": [],
-    "verifier": "Keir",
-    "verification": "https://youtu.be/mEXGlrNMyR4",
+    "verifier": "CactuzGD",
+    "verification": "https://www.youtube.com/watch?v=tc_TUgEQmyA&t",
     "percentToQualify": "56",
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "CactuzGD",
-            "link": "https://www.youtube.com/watch?v=tc_TUgEQmyA&t=421s",
-            "percent": 100,
-            "hz": 60
-        }
     ]
 }
