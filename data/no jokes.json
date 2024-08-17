@@ -3,16 +3,10 @@
     "name": "no jokes",
     "author": "TheParadoxTeam",
     "creators": ["FlashWings576", "TyakyoFyai", "Nexi", "Aqualime", "Quicklen"],
-    "verifier": "Zeronium",
-    "verification": "https://youtu.be/oVhGYiQ8fBc",
+    "verifier": "CactuzGD",
+    "verification": "https://youtu.be/nOevbqS7shs",
     "percentToQualify": 68,
     "password": "Free to Copy",
     "records": [
-        {
-            "user": "CactuzGD",
-            "link": "https://youtu.be/nOevbqS7shs",
-            "percent": 100,
-            "hz": 60
-        }
     ]
 }
