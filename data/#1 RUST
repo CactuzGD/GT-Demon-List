@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/mEXGlrNMyR4",
     "percentToQualify": "56",
     "password": "Free To Copy",
-    "records": [
+      "records": [
+        {
+            "user": "CactuzGD",
+            "link": "https://www.youtube.com/watch?v=tc_TUgEQmyA&t=421s",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
