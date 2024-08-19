@@ -36,7 +36,7 @@
             "user": "Jetnology",
             "link": "https://www.youtube.com/watch?v=Lgv8to3uhTY",
             "percent": 100,
-            "hz": Mobile
+            "hz": 60
         },
         {
             "user": "Guaiplox",
@@ -58,12 +58,6 @@
         },
               {
             "user": "El Chamo GT",
-            "link": "",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "paddlewad",
             "link": "",
             "percent": 100,
             "hz": 60
