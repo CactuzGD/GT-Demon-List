@@ -1,0 +1,18 @@
+{
+    "id": 87425029,
+    "name": "niwa",
+    "author": "Teno",
+    "creators": ["Blaze", "Asuith", "Mrgm", "Aranda", "Titoalper", "KrazyGFX", "Genoxide", "Pedro", "TheRealPengBeClan", "Teno"],
+    "verifier": "Lc6835",
+    "verification": "https://youtu.be/6VxbOj_-KiM",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Dagemanx",
+            "link": "https://www.youtube.com/watch?v=dDydcddKL-c",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
