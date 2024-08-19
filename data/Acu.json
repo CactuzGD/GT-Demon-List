@@ -1,0 +1,72 @@
+{
+    "id": 61079355,
+    "name": "Acu",
+    "author": "Neigefeu",
+    "creators": ["Neigefeu"],
+    "verifier": "Dagemanx",
+    "verification": "https://youtu.be/l464O4xwpjs",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "SoyPalala",
+            "link": "https://www.youtube.com/watch?v=Ut8E8la7tNw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ADanielGD",
+            "link": "https://www.youtube.com/watch?v=jD9yVjLcTUc&t",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "CyPhrix",
+            "link": "https://www.youtube.com/watch?v=99ra4AEp5Z8&t",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Cactuz",
+            "link": "https://www.youtube.com/watch?v=mO-j0-EuEcc",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Jetnology",
+            "link": "https://www.youtube.com/watch?v=Lgv8to3uhTY",
+            "percent": 100,
+            "hz": Mobile
+        },
+        {
+            "user": "Guaiplox",
+            "link": "https://www.youtube.com/watch?v=LjoPzj3BC30&t",
+            "percent": 100,
+            "hz": 60
+        },
+              {
+            "user": "Lexur",
+            "link": "https://www.youtube.com/watch?v=4rOiSndH-7I&t",
+            "percent": 100,
+            "hz": 60
+        },
+              {
+            "user": "Atenan",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        },
+              {
+            "user": "El Chamo GT",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "paddlewad",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
