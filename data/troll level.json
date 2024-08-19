@@ -1,0 +1,36 @@
+{
+    "id": 76196489,
+    "name": "troll level",
+    "author": "Lexycat",
+    "creators": ["lena","glitchy","Lexycat"],
+    "verifier": "Dagemanx",
+    "verification": "https://youtu.be/dDydcddKL-c",
+    "percentToQualify": "100",
+    "password": "001450",
+    "records": [
+        {
+            "user": "Crest5981",
+            "link": "https://www.youtube.com/watch?v=9m9pNoa6e38&t",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Cactuz",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Lc6835",
+            "link": "https://www.youtube.com/watch?v=-gmt8NrsCZc&t",
+            "percent": 100,
+            "hz": 60
+        },
+              {
+            "user": "Lexur",
+            "link": "https://www.youtube.com/watch?v=lyJQk6d6wmc",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
