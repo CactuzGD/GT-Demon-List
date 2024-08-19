@@ -1,0 +1,18 @@
+{
+    "id": 34057654,
+    "name": "Black Blizzard",
+    "author": "KrmaL",
+    "creators": [],
+    "verifier": "Jetnology",
+    "verification": "https://youtu.be/p6fTttYDw5w?si=v9j0PTq6DKMYBt1o",
+    "percentToQualify": "42",
+    "password": "000006",
+    "records": [
+        {
+            "user": "CactuzGD",
+            "link": "https://youtu.be/0iRDCp6VSCA?si=KJsyF_01dHyiF0HI",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
