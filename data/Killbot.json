@@ -1,0 +1,24 @@
+{
+    "id": 38754426,
+    "name": "Killbot",
+    "author": "BoldStep",
+    "creators": ["Lithifusion"],
+    "verifier": "Dagemanx",
+    "verification": "https://youtu.be/nK3CsevDk04?si=jiRkOIgk1tbhWM5i",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "CactuzGD",
+            "link": "https://youtu.be/beK9HpB6CcA?si=Xgo989uF5DnfliML",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Crest5981",
+            "link": "https://youtu.be/Jm16YZi21Qc?si=LF8It1_myY0DmWez",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
