@@ -1,0 +1,18 @@
+{
+    "id": 65561437,
+    "name": "Napalm",
+    "author": "Marwec",
+    "creators": ["Marwec", "victorinoxX", "Vapen", "Domiinuus", "FerdeFunky", "Buragoz", "zalspr", "OpteX", "Sminx", "Eggnog", "Subwoofer"],
+    "verifier": "Dagemanx",
+    "verification": "https://youtu.be/dDydcddKL-c?si=huC3OYAFYNsb2wbB&t=1599",
+    "percentToQualify": "100",
+    "password": "236589",
+    "records": [
+        {
+            "user": "Atenan",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
