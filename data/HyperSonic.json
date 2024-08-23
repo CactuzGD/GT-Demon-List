@@ -1,0 +1,37 @@
+{
+    "id": 30219145,
+    "name": "HyperSonic",
+    "author": "ViPriN",
+    "creators": ["Vlacc", "Pan", "Rustam", "Dudex", "Etzer", "Serponge",
+      "Manix648", "ZenthicAlpha", "Terron", "ViPriN", "Evasium622", "nasgubb"],
+    "verifier": "SoyPalala",
+    "verification": "https://youtu.be/B8A09auvLyc?si=R_zQMBh8ukcvefD6",
+    "percentToQualify": "100",
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "Jetnology",
+            "link": "https://youtu.be/-IbgUHJIoAA?si=isJMs67_mZ7Xhrhl",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "CactuzGD",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ElKiubitXD",
+            "link": "https://youtu.be/jiDmPX1r_Ds?si=zHOSwsZAuXNCJfNF",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Atenan",
+            "link": "",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
