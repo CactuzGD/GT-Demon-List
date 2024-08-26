@@ -9,5 +9,11 @@
     "percentToQualify": "50",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Lexur",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
