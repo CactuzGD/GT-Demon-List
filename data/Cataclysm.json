@@ -1,0 +1,24 @@
+{
+    "id": 3979721,
+    "name": "Cataclysm",
+    "author": "GgB0y",
+    "creators": [],
+    "verifier": "CactuzGD",
+    "verification": "https://youtu.be/OSdWIujF-x0?si=NiG4EUdXyD7ygXhO",
+    "percentToQualify": "100",
+    "password": "666777",
+    "records": [
+        {
+            "user": "ElKiubitXD",
+            "link": "https://youtu.be/CSsbf-axaHk?si=bqNQ-j-pSfVWEVHL",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Lc6835",
+            "link": "https://youtu.be/5ZpDw_OJ2eQ?si=SC-hTfU_5gJFCdGV",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
