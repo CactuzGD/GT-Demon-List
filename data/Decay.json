@@ -1,0 +1,24 @@
+{
+    "id": 84354027,
+    "name": "Decay",
+    "author": "KiwiPenguin",
+    "creators": [],
+    "verifier": "Dagemanx",
+    "verification": "https://youtu.be/dDydcddKL-c?si=xqUYoIzpPaRoW71Y&t=219",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "CactuzGD",
+            "link": "https://youtu.be/6fCLabMcsqM?si=vJkcdTV1qqFYnA8Z",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Crest5981",
+            "link": "https://youtu.be/9FdjF9aWHCM?si=Dbp8wrWmeNiL7rb7",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
