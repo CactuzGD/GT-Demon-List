@@ -24,9 +24,25 @@ export function score(rank, percent, minPercent) {
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
     */
     // New formula
+    /*
     let score = (-24.9975*Math.pow(rank-1, 0.4) + 200) *
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
+    */
+    // Test formula
+    if (rank < 26) {
+        const b = Math.pow((150/350), (1/24));
+        const a = 350/b;
 
+        var score = a*Math.pow(b, rank);
+    }
+
+    if (rank > 25) {
+        const b = Math.pow((20/150), (1/(73-25)));
+        const a = 150/(Math.pow(b, 25));
+
+        var score = a*Math.pow(b, rank);
+    }
+    
     score = Math.max(0, score);
 
     if (percent != 100) {
