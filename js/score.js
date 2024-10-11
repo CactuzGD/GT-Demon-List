@@ -11,12 +11,14 @@ const scale = 3;
  * @returns {Number}
  */
 export function score(rank, percent, minPercent) {
+    /*
     if (rank > 150) {
         return 0;
     }
     if (rank > 75 && percent < 100) {
         return 0;
     }
+    */
 
     // Old formula
     /*
@@ -37,7 +39,7 @@ export function score(rank, percent, minPercent) {
     }
 
     if (rank > 25) {
-        const b = Math.pow((20/150), (1/(73-25)));
+        const b = Math.pow((20/150), (1/(74-25))); // Cambiar el número en esta línea a la cantidad de extremes en la lista "(x-25)"
         const a = 150/(Math.pow(b, 25));
 
         var score = a*Math.pow(b, rank);
