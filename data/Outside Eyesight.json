@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "CactuzGD",
+            "link": "https://youtu.be/OV1HMEPKpP0?si=1htVQSe12AeuuPPp",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
