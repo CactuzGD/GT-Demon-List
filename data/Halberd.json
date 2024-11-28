@@ -8,11 +8,17 @@
     "percentToQualify": "100",
     "password": "314120",
     "records": [
-{
+        {
             "user": "Lc6835",
             "link": "https://youtu.be/aVIePjyh3fc?si=AgAtvybX-JDYrBae",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "CactuzGD",
+            "link": "https://youtu.be/kvgtFmNxczw?si=a7jq1fncRqNEOYJ0",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
