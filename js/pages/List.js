@@ -100,16 +100,16 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Completó el nivel sin usar ningun tipo de hacks (Se permite el uso de el CBF y cualquier otro hack permitido en la lista de pointercrate)
+                        Se completó el nivel sin usar ningun tipo de hacks (Se permite el uso de el CBF y cualquier otro hack permitido en la lista de pointercrate)
                     </p>
                     <p>
-                        Tener cualquier audio de referencia relacionado a clicks/taps en el vídeo. El audio editado o usando cualquier tipo de mod no está permitido
+                        Tener cualquier audio de referencia relacionado a clicks/taps en el vídeo. Tener un audio editado o usar cualquier tipo de mod en referencia a esto no está permitido
                     </p>
                     <p>
-                        La grabación debe de tener un intento anterior y una animación de muerte completa mostrada antes de la completion
+                        La grabación debe de tener un intento anterior y una animación de muerte mostrada antes de la completion
                     </p>
                     <p>
-                        La grabación también debe mostrar que el jugador completo el nivel mostrando todos los datos despues de la completion, sin esto será invalidada.
+                        La grabación también debe mostrar que el jugador completo el nivel sin ningun tipo de corte, mostrando todos los datos despues de la completion, sin esto será invalidada.
                     </p>
                     <p>
                         No se permite el uso de Secret ways o Bugs, Los skips si están permitidos
@@ -118,7 +118,7 @@ export default {
                         El completar un nivel nerfeado o modificado aparte de el nivel original seran rechazados, niveles con algun LDM o alguna version antigua de el nivel están permitidos, solo que debe de ser especificado en el video o la descripcion
                     </p>
                     <p>
-                        Una vez que un nivel cae en la Legacy List, todavia aceptaremosrecords después de que caiga o verificaciones, con la condicion de que no se le otorgaran puntos.
+                        Una vez que un nivel cae en la Legacy List, todavia aceptaremos records después de que caiga u otro nivel sea verificado, con la condicion de que no se otorgaran puntos.
                     </p>
                 </div>
             </div>
