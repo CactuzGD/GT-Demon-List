@@ -5,8 +5,14 @@
     "creators": [],
     "verifier": "Dagemanx",
     "verification": "https://youtu.be/UYix7WEUgUk?si=H7pmYkMkdSnLyl8s",
-    "percentToQualify": "100",
+    "percentToQualify": "59",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "CactuzGD",
+            "link": "https://www.youtube.com/watch?v=UvnLkqWVzC8",
+            "percent": 100,
+            "hz": 300
+        }
     ]
 }
