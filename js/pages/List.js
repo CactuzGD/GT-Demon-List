@@ -100,28 +100,25 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Completó el nivel sin usar ningun tipo de hacks (Se permite el uso de el CBF y cualquier otro hack permitido en la lista de pointercrate)
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        Tener cualquier audio de referencia relacionado a clicks/taps en el vídeo. El audio editado o usando cualquier tipo de mod no está permitido
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        La grabación debe de tener un intento anterior y una animación de muerte completa mostrada antes de la completion
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        La grabación también debe mostrar que el jugador completo el nivel mostrando todos los datos despues de la completion, sin esto será invalidada.
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        No se permite el uso de Secret ways o Bugs, Los skips si están permitidos
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        El completar un nivel nerfeado o modificado aparte de el nivel original seran rechazados, niveles con algun LDM o alguna version antigua de el nivel están permitidos, solo que debe de ser especificado en el video o la descripcion
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
-                    </p>
-                    <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        Una vez que un nivel cae en la Legacy List, todavia aceptaremosrecords después de que caiga o verificaciones, con la condicion de que no se le otorgaran puntos.
                     </p>
                 </div>
             </div>
