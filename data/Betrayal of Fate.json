@@ -1,0 +1,18 @@
+{
+    "id": 20329544,
+    "name": "Betrayal of Fate",
+    "author": "weoweoteo",
+    "creators": ["weoweoteo", "xcy7"],
+    "verifier": "YoyiGD",
+    "verification": "https://www.youtube.com/watch?v=spmDpXwxzRk&t=13s",
+    "percentToQualify": "49",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "CactuzGD",
+            "link": "https://www.youtube.com/watch?v=xMa4z7C_pZA",
+            "percent": 100,
+            "hz": 300
+        }
+    ]
+}
