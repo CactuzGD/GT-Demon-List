@@ -8,5 +8,11 @@
     "percentToQualify": "54",
     "password": "115911",
     "records": [
+        {
+            "user": "YoyiGD",
+            "link": "https://www.youtube.com/watch?v=BD8be8uLt2g&t",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
