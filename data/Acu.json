@@ -61,6 +61,12 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+             {
+            "user": "YoyiGD",
+            "link": "https://www.youtube.com/watch?v=Mv-VDbBv8dg",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
