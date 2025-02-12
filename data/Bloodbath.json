@@ -46,16 +46,16 @@
             "hz": 60
         },
         {
+            "user": "Guaiplox",
+            "link": "https://youtu.be/USXCbHrF3-4?si=hBLGrVlsB4bAEe0p",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "Xotiic",
             "link": "https://www.youtube.com/watch?v=Wg7tO1l5k8I",
             "percent": 91,
             "hz": 120
-        },
-         {
-            "user": "Guaiplox",
-            "link": "",
-            "percent": 89,
-            "hz": 60
         }
     ]
 }
