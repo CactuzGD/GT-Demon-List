@@ -26,9 +26,15 @@
             "percent": 100,
             "hz": 60
         },
-              {
+        {
             "user": "Lexur",
             "link": "https://www.youtube.com/watch?v=lyJQk6d6wmc",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Silent",
+            "link": "https://youtu.be/hCx1GdI2dzo?si=hMK5vYLL1CXEHV9i",
             "percent": 100,
             "hz": 240
         }
