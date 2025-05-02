@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Lokogg",
+            "link": "https://www.tiktok.com/@lokogg_/video/7406186332122402053",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
