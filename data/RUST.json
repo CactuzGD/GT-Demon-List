@@ -8,5 +8,11 @@
     "percentToQualify": "56",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Veriscent",
+            "link": "https://youtu.be/OIK7c5eQfAA?si=qoJt-p6FVcsQgrqL",
+            "percent": 80,
+            "hz": 165
+        }
     ]
 }
