@@ -39,7 +39,7 @@ export function score(rank, percent, minPercent) {
     }
 
     if (rank > 25) {
-        const b = Math.pow((20/150), (1/(129-25))); // Cambiar el número en esta línea a la cantidad de extremes en la lista "(x-25)"
+        const b = Math.pow((20/150), (1/(132-25))); // Cambiar el número en esta línea a la cantidad de extremes en la lista "(x-25)"
         const a = 150/(Math.pow(b, 25));
 
         var score = a*Math.pow(b, rank);
