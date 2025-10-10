@@ -9,11 +9,11 @@
     "percentToQualify": "100",
     "password": "No Copy",
     "records": [
-            {
+        {
             "user": "Kozmozb",
             "link": "https://www.youtube.com/watch?v=wMCJKwJpbZo",
             "percent": 100,
             "hz": 150
-        },
+        }
     ]
 }
