@@ -9,7 +9,13 @@
     "percentToQualify": "100",
     "password": "No Copy",
     "records": [
-   {
+        {
+            "user": "ElKiubitXD",
+            "link": "https://youtu.be/iG-C0Z3v_Z8?si=vmJUMBnXk-hXeXIj",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "fonkime",
             "link": "https://www.youtube.com/watch?v=z3-gmBUmYbE",
             "percent": 100,
