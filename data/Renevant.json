@@ -8,5 +8,12 @@
     "percentToQualify": "61",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "CactuzGD",
+            "link": "",
+            "percent": 64,
+            "hz": 240
+        },
+
     ]
 }
