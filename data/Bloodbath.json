@@ -22,12 +22,6 @@
             "hz": 240
         },
         {
-            "user": "El Chamo GT",
-            "link": "",
-            "percent": 100,
-            "hz": 60
-        },
-        {
             "user": "ElKiubitXD",
             "link": "https://youtu.be/O4t5IbWwFGw?si=Fv0WndOIdH_qxvFD",
             "percent": 100,
@@ -68,6 +62,12 @@
             "link": "https://www.youtube.com/watch?v=rNOSg5tzlU4",
             "percent": 100,
             "hz": 240
-        }
+        },
+         {
+            "user": "El Chamo GT",
+            "link": "https://www.youtube.com/watch?v=A2F2u8b2YIY",
+            "percent": 100,
+            "hz": 360
+        },
     ]
 }
