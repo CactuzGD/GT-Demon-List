@@ -8,5 +8,18 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+          {
+            "user": "El Chamo GT",
+            "link": "https://www.tiktok.com/@giansito44/video/7587059619260861752?is_from_webapp=1&sender_device=pc&web_id=7576853467655325196",
+            "percent": 100,
+            "hz": 240
+        },
+         {
+            "user": "SoyPalala",
+            "link": "https://www.youtube.com/watch?v=sEsbaZOccaQ",
+            "percent": 100,
+            "hz": 240
+        }
+        
     ]
 }
