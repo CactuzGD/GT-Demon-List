@@ -20,6 +20,12 @@
             "link": "https://www.youtube.com/watch?v=z3-gmBUmYbE",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "EpiGD",
+            "link": "https://youtu.be/XeTAbr9gWNI",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
