@@ -20,6 +20,12 @@
             "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Overtime",
+            "link": "https://youtu.be/RPB9YpbXnoQ",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
