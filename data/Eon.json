@@ -1,12 +1,18 @@
 {
     "id": 101478916,
     "name": "Eon",
-    "author": "ewop",
+    "author": "Renn241",
     "creators": ["Renn241"],
     "verifier": "Deshii",
     "verification": "https://www.youtube.com/watch?v=PB8biPPY-zs",
     "percentToQualify": "65",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "ElKiubitXD",
+            "link": "https://youtu.be/41kpUmqU3kE",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
