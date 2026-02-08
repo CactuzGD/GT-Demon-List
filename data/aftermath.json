@@ -19,7 +19,12 @@
             "link": "https://www.youtube.com/watch?v=sEsbaZOccaQ",
             "percent": 100,
             "hz": 240
+        },
+         {
+            "user": "axds",
+            "link": "https://youtu.be/ZvJ-ptJktTE",
+            "percent": 100,
+            "hz": 360
         }
-        
     ]
 }
