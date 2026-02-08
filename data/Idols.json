@@ -9,5 +9,11 @@
     "percentToQualify": "61",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Nuubi",
+            "link": "https://youtu.be/J4BJLYi8W2U",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
