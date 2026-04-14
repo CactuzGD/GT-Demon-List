@@ -11,13 +11,18 @@
     },
     {
         "role": "admin",
-        "name": "Xotiic",
+        "name": "Veriscent",
         "link": "https://www.youtube.com/@Xotiicgt"
     },
     {
         "role": "admin",
         "name": "Guaiplox",
         "link": "https://www.youtube.com/@Guaiplox"
+    },
+    {
+        "role": "admin",
+        "name": "Deshii",
+        "link": "https://www.youtube.com/@Deshiik"
     },
     {
         "role": "helper",
@@ -31,7 +36,7 @@
     },
     {
         "role": "dev",
-        "name": "List Coder",
+        "name": "Cactuz",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     }
 ]
