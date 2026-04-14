@@ -7,6 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=poRv58WF4as",
     "percentToQualify": "44",
     "password": "446799",
-    "records": [
+    "records": [        
+        {
+            "user": "Veriscent",
+            "link": "",
+            "percent": 45,
+            "hz": 480
+        }
     ]
 }
