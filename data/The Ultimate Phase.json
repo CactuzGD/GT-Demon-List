@@ -3,7 +3,7 @@
     "name": "The Ultimate Phase",
     "author": "Andromeda",
     "creators": ["Loogiah", "Tygrysek", "Andromeda", "WOOGI1411", "Giron", "Findexi", "Crack", "Cyclic", "UserMatt18",
-      "ZenthicAlpha", "😭", "CreepyDash", "Zobros", "ViPriN", "MaJackO"],
+      "ZenthicAlpha", "Activa Cam", "CreepyDash", "Zobros", "ViPriN", "MaJackO"],
     "verifier": "YoyiGD",
     "verification": "https://youtu.be/_2Z67miZ8rA?si=uNvbqdD8TvXRHt7b",
     "percentToQualify": "100",
@@ -26,6 +26,13 @@
             "link": "https://youtu.be/XeTAbr9gWNI",
             "percent": 100,
             "hz": 240
+        },       
+        {
+            "user": "Encizor",
+            "link": "https://www.youtube.com/watch?v=yKxw8woxqik",
+            "percent": 100,
+            "hz": 540
         }
+        
     ]
 }
