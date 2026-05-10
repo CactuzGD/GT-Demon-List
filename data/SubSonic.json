@@ -8,5 +8,12 @@
     "percentToQualify": "54",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Coniac",
+            "link": "https://www.youtube.com/watch?v=g3VX_fGIOY8",
+            "percent": 100,
+            "hz": 60
+        }
+
     ]
 }
