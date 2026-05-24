@@ -8,10 +8,11 @@
     "percentToQualify": 68,
     "password": "Free to Copy",
     "records": [        
-       {
+        {
             "user": "YoyiGD",
             "link": "",
-            "percent": 74,
-       }
+            "percent": 79,
+            "hz": 320
+        }
     ]
 }
