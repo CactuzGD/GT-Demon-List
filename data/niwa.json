@@ -37,6 +37,12 @@
             "link": "https://youtu.be/ieBxBIEoWfQ",
             "percent": 100,
             "hz": 75
+        },
+        {
+            "user": "Angel",
+            "link": "https://www.youtube.com/live/ger1ZRKnJ4U",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
