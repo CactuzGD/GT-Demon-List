@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=Bv7RStfbh9o",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Coniac",
+            "link": "https://www.youtube.com/watch?v=J0Q0nLTsAbs",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
