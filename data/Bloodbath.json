@@ -82,10 +82,16 @@
             "hz": 720
         },
         {
+            "user": "Coniac",
+            "link": "https://www.youtube.com/watch?v=KZf4lwINRSI",
+            "percent": 100,
+            "hz": 60
+        },
+        {
             "user": "Deshii",
             "link": "",
             "percent": 94,
-            "hz": 525
+            "hz": 180
         }
     ]
 }
