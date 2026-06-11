@@ -3,16 +3,10 @@
     "name": "NecropoliX",
     "author": "Namtar",
     "creators": [],
-    "verifier": "Encizor",
-    "verification": "https://youtu.be/FD2-BL6fkCA?si=_v4FAMujJt1HzHVM",
+    "verifier": "Cross220",
+    "verification": "",
     "percentToQualify": "100",
     "password": "437643",
     "records": [
-        {
-            "user": "Cross220",
-            "link": "",
-            "percent": 100,
-            "hz": 60
-        }
     ]
 }
