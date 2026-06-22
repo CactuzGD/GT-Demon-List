@@ -1,0 +1,18 @@
+{
+    "id": 114264278,
+    "name": "Quantum Processing",
+    "author": "Riot",
+    "creators": [],
+    "verifier": "GW",
+    "verification": "https://youtu.be/digFoNUFr4I?si=uSLnIfCG_bqIbnaf",
+    "percentToQualify": "56",
+    "password": "Free to Copy",
+    "records": [       
+      {
+            "user": "Hoshiteru",
+            "link": "",
+            "percent": 88,
+            "hz": 360
+      }
+    ]
+}
