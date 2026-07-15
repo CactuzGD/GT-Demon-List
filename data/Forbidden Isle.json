@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "GW",
+            "link": "https://youtu.be/EwjeeZtaaaw?si=Pr6WkxWZsX9s2yjO",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
