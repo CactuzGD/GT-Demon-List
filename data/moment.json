@@ -33,7 +33,7 @@
             "hz": 200
         },
         {
-            "user": "Nuubi",
+            "user": "Nuwi",
             "link": "",
             "percent": 100,
             "hz": 240
@@ -41,6 +41,12 @@
         {
             "user": "Silent",
             "link": "https://youtu.be/2iW4sBRXs-U?si=uEyalRAd5nSE-aeU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Jose658",
+            "link": "https://www.youtube.com/watch?v=2t-NdtqFHqQ&t",
             "percent": 100,
             "hz": 240
         }
