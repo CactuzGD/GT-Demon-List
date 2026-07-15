@@ -43,6 +43,12 @@
             "link": "https://www.youtube.com/live/ger1ZRKnJ4U",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Javier",
+            "link": "https://www.youtube.com/watch?v=BWEIehk5mig",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
