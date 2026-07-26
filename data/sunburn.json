@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/YEW0OF2WWVU?si=aClhg_jgWgwBUmZH",
     "percentToQualify": "100",
     "password": "Free to Copy",
-    "records": [
+    "records": [        
+        {
+            "user": "Thedelax14",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
     ]
 }
