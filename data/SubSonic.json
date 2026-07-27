@@ -13,7 +13,12 @@
             "link": "https://www.youtube.com/watch?v=g3VX_fGIOY8",
             "percent": 100,
             "hz": 60
-        }
+        },
+        {
+            "user": "Nuwi",
+            "link": "https://www.youtube.com/watch?v=YVq5h36WQJs",
+            "percent": 100,
+            "hz": 240
 
     ]
 }
