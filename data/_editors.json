@@ -12,7 +12,7 @@
     {
         "role": "admin",
         "name": "Veriscent",
-        "link": "https://www.youtube.com/@Xotiicgt"
+        "link": "https://www.youtube.com/@Veriscent"
     },
     {
         "role": "admin",
@@ -26,17 +26,22 @@
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Moochie",
+        "link": "https://www.youtube.com/@Moooochie"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "",
+        "link": ""
     },
     {
         "role": "dev",
         "name": "Cactuz",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.youtube.com/@CactuzGD"
+    },
+    {
+        "role": "dev",
+        "name": "Deshii",
+        "link": "https://www.youtube.com/@Deshiik"
     }
 ]
