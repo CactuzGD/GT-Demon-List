@@ -3,10 +3,16 @@
     "name": "Anya III",
     "author": "Anya21",
     "creators": [],
-    "verifier": "YoyiGD",
-    "verification": "https://youtu.be/fRyC-fIVJDg?si=BnqDgBJB0c4v80tf",
+    "verifier": "[Redacted]",
+    "verification": "https://www.youtube.com/watch?v=VNkYNa4W4TE&list=RDVNkYNa4W4TE&start_radio=1",
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "YoyiGD",
+            "link": "https://youtu.be/fRyC-fIVJDg?si=BnqDgBJB0c4v80tf",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
