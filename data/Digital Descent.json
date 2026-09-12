@@ -5,8 +5,14 @@
     "creators": ["Vlacc", "Serponge", "nasgubb", "Kips", "Rustam", "AbstractDark", "LazerBlitz", "Terron", "Etzer", "Codex", "KrmaL", "Manix648", "Loogiah", "TheDevon", "G4lvatron", "Samifying"],
     "verifier": "CactuzGD",
     "verification": "",
-    "percentToQualify": "100",
+    "percentToQualify": "63",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Veriscent",
+            "link": "",
+            "percent": 70,
+            "hz": 165
+        }
     ]
 }
