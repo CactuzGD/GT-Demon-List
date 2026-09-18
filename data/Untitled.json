@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "ñapa6741",
+            "link": "https://www.youtube.com/watch?v=UKtGrg6QP5U",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
