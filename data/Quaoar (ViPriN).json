@@ -10,5 +10,11 @@
     "percentToQualify": "56",
     "password": "051322",
     "records": [
+         {
+            "user": "Nuwi",
+            "link": "https://youtu.be/snmugEUL5TQ?si=BenC3NyJU4cSxbEU",
+            "percent": 100,
+            "hz": 60
+      }
     ]
 }
