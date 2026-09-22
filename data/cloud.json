@@ -8,5 +8,17 @@
     "percentToQualify": "55",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Nuwi",
+            "link": "",
+            "percent": 85,
+            "hz": 300
+        },       
+        {
+            "user": "Lunaa",
+            "link": "",
+            "percent": 85,
+            "hz": 300
+        }
     ]
 }
