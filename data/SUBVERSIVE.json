@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Zumitos",
+            "link": "https://www.youtube.com/watch?v=FY1ZztEYIW4&list=PLOZ5Wr8sVgCM&index=2&pp=iAQB",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
