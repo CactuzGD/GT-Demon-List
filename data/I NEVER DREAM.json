@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Pinkio",
+            "link": "https://www.youtube.com/watch?v=x3e2CksozrY",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
